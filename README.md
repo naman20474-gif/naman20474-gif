@@ -1,10 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on
-Cybersecurity and penetration testing fundamentals
-Linux and system programming
-Python automation and security tooling
-AI applications in cybersecurity
-Building my own Linux-based security projects<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi, I'm Naman Verma
+Cybersecurity Student | Python | Linux | C++ | AI<br>
+I'm a cybersecurity student interested in building practical security tools, Linux systems, and AI-powered security solutions.<br><br>
+🔭 I’m currently working on:<br>
+ . Cybersecurity and penetration testing fundamentals<br>
+ . Linux and system programming<br>
+ . Python automation and security tooling<br>
+ . AI applications in cybersecurity<br>
+ . Building my own Linux-based security projects<br>🌱 I’m currently learning:<br>
+    Cybersecurity • Linux Internals • Networking • AI/ML<br>
 
 
 ## 🌐 Socials:
